@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T00:51:21.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" version="13.6.2" etag="tuMJjI7wAPHm3-nHy-Oy" type="github"><diagram id="U-yZE751m5bO0hMRmxp1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-11T01:03:42.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="7h9oZ7bIv1ceog7s4Vi5" version="13.6.2" type="github">
+  <diagram id="U-yZE751m5bO0hMRmxp1" name="Page-1">
+    <mxGraphModel dx="1038" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-1" value="ALGORITIMO DO PRODUTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-2" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-3" value="INSERIR NOME DO PRODUTO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-4" value="INSERIR VALOR DO PRODUTO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-5" value="NACIONAL OU IMPORTADO?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-6" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="890" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-9" value="VALOR MULTIPLICADO POR 2,17" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="550" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCp-Ys_5SfYBmK-3Win4-1" target="sCp-Ys_5SfYBmK-3Win4-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-13" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="396.66333333333324" y="230" as="sourcePoint" />
+            <mxPoint x="393.33" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406.66333333333324" y="340" as="sourcePoint" />
+            <mxPoint x="403.33" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-15" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="423.33333333333326" y="470" as="sourcePoint" />
+            <mxPoint x="420" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="600" as="sourcePoint" />
+            <mxPoint x="720" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sCp-Ys_5SfYBmK-3Win4-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414.5" y="700" as="sourcePoint" />
+            <mxPoint x="415" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCp-Ys_5SfYBmK-3Win4-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.003;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="sCp-Ys_5SfYBmK-3Win4-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="826" y="660" as="sourcePoint" />
+            <mxPoint x="826" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="826" y="921" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
