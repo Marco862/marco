@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-08-11T01:55:57.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" version="13.6.2" etag="QzRX4-HnGfub04S2wsjo" type="github"><diagram id="ia84njtBPTiPEhW1ZRdr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-11T02:02:51.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52" etag="fP755waniq6GTShgjUDB" version="13.6.2" type="github">
+  <diagram id="ia84njtBPTiPEhW1ZRdr" name="Page-1">
+    <mxGraphModel dx="1038" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y36pe7D1nyQzWgZOxAvm-1" target="y36pe7D1nyQzWgZOxAvm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-1" value="CALCULO DE ESTOQUE MEDIO DA PECA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-110" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y36pe7D1nyQzWgZOxAvm-2" target="y36pe7D1nyQzWgZOxAvm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-2" value="QUANTIDADE MINIMA DE PECA NO ESTOQUE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="180" width="245" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y36pe7D1nyQzWgZOxAvm-4" target="y36pe7D1nyQzWgZOxAvm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-4" value="QUANTIDADE MAXIMA DE PECAS EM ESTOQUE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="350" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y36pe7D1nyQzWgZOxAvm-6" target="y36pe7D1nyQzWgZOxAvm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-6" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y36pe7D1nyQzWgZOxAvm-10" target="y36pe7D1nyQzWgZOxAvm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-10" value="(QUANTIDADE MINIMA DE PECAS + QUANTIDADE MAXIMA DE PECAS) / 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y36pe7D1nyQzWgZOxAvm-12" target="y36pe7D1nyQzWgZOxAvm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-12" value="RESULTADO DE ESTOQUE MEDIO DE PECAS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="720" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y36pe7D1nyQzWgZOxAvm-14" value="FIM" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
